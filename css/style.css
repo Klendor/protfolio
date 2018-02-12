@@ -10,5 +10,22 @@ body {
 	height:200px;
 	width:200px;
 	margin-left:40px;
-	padding-bottom:20px;
 }
+.footer {
+	margin-top:50px;
+	height:53px;
+}
+#white {
+	color:white;
+	padding-top: 15px;
+}
+#port {
+	margin-top:25px;
+}
+#google {
+color: #fff;}
+#twitter {
+color: #fff;}
+
+#socials {
+padding-top: 10px;}
