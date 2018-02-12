@@ -1,3 +1,13 @@
 body {
 	background-color:#e6e8ed;
 }
+#jumbo {
+	margin-top:40px;
+	background-color:#ffffff;
+	
+	}
+#aboutpic {
+	height:200px;
+	width:200px;
+	margin-left:40px;
+}
